@@ -1,6 +1,7 @@
 # Why FAST Keypoint?
 - **Higher Keypoint Density**
 - **Better Matching Performance**
+- **Keypoint Performance on kth_10 sequence:**
 ![image](https://github.com/user-attachments/assets/ae3dca21-84ce-4ddb-9536-0e33c0939ac8)
 
 
