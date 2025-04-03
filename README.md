@@ -11,5 +11,4 @@
 
 </div>
 
-
-
+![Teaser](https://github.com/snakehaihai/BEV-LIO-LC/raw/main/Figures/mapoverlay_kth_seq.gif)
