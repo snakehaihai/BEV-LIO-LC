@@ -1,7 +1,7 @@
 <div align="center">
   <h1>BEV-LIO(LC)</h1>
   <h2>BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure</h2>
-  <p><strong>This work is currently under review at <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</i>.</strong></p>
+  <p><strong>This work is accepted at <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). The code will be released shortly. </i>.</strong></p>
   <br>
 
   [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/HxCa1/BEV-LIO-LC)
